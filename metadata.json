@@ -1,0 +1,6 @@
+{
+  "name": "5-Letter Words Finder & Wordle Solver",
+  "description": "The ultimate 5-letter word finder, Wordle solver, anagram finder, and pattern search tool with comprehensive definitions, word lists, and game strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
